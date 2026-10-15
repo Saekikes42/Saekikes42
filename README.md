@@ -5,7 +5,7 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,java,kotlin,html,css,js,ts,vue,flutter,docker,md,postman&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,kotlin,html,css,js,ts,vue,flutter,docker&theme=dark&perline=10" alt="Tech Stack" />
 </p>
 
 ### Machine Learning
